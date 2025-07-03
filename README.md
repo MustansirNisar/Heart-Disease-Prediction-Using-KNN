@@ -61,7 +61,7 @@ The dataset used (`heart.csv`) contains 918 samples with the following features:
 ```
 .
 ├── Untitled.ipynb       # Main Jupyter Notebook with code and explanations
-├── heart.csv            # Dataset file (not included here)
+├── heart.csv            # Dataset file 
 ├── README.md            # This file
 ```
 
@@ -87,9 +87,8 @@ pip install pandas numpy scikit-learn matplotlib
 ## How to Run
 
 1. Clone this repository or download the files.
-2. Place `heart.csv` in the project directory.
-3. Open `Untitled.ipynb` in Jupyter Notebook.
-4. Run all cells sequentially to:
+2. Open `Untitled.ipynb` in Jupyter Notebook.
+3. Run all cells sequentially to:
     - Load and explore the dataset
     - Preprocess data (encoding, scaling)
     - Build and evaluate the KNN classifier
