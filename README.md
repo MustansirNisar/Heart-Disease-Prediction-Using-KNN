@@ -123,7 +123,6 @@ The notebook demonstrates the entire workflow, from theory to practical implemen
 ## References
 
 - [K-Nearest Neighbors (Wikipedia)](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
-- [UCI Heart Disease Dataset](https://archive.ics.uci.edu/ml/datasets/Heart+Disease)
 - [Scikit-learn KNeighborsClassifier Documentation](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
 - [Machine Learning with Python – GeeksforGeeks](https://www.geeksforgeeks.org/machine-learning/)
 
