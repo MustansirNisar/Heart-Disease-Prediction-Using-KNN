@@ -26,7 +26,7 @@ Heart disease is among the leading causes of death worldwide. Early prediction c
 
 ## What is KNN?
 
-K-Nearest Neighbors (KNN) is a simple, intuitive, and widely used supervised machine learning algorithm. It can be used for both classification and regression tasks, but in this project, it is used for classification. The algorithm is also called as Lazy Learning Algorithm. The algorithm predicts the class of a new data point by looking at the majority class among its 'K' closest neighbors in the feature space.
+K-Nearest Neighbors (KNN) is a simple, intuitive, and widely used supervised machine learning algorithm. It can be used for both classification and regression tasks, but in this project, it is used for classification. The algorithm is also called as Lazy Learning Algorithm, as there is no actual training involved and the algorithm simply saves the training dataset to make future predictions. The algorithm predicts the class of a new data point by looking at the majority class among its 'K' closest neighbors in the feature space.
 
 **Key characteristics:**
 - Non-parametric and instance-based
